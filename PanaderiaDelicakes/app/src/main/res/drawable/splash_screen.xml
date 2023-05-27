@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/lila" />
+    <item android:drawable="@drawable/logo_delicakes"
+        android:width="270dp"
+        android:height="270dp"
+        android:gravity="center"/>
+</layer-list>
